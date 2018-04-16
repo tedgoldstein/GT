@@ -1,0 +1,10 @@
+# install.packages(c("RMySQL", "config", "dplyr", "dbplyr"), repos="https://cloud.r-project.org/")
+# install.packages(c("dbplyr", "purrr", "shiny", "shinydashboard", "highcharter", "DT", "htmltools"), repos="https://cloud.r-project.org/")
+# install.packages(c("dbplyr", "purrr", "shiny", "shinydashboard" ), repos="https://cloud.r-project.org/")
+# Sys.setenv(TMPDIR="~/R/tmp")
+# install.packages(c("rlist", "igraph" ), repos="https://cloud.r-project.org/")
+# install.packages(c("ggplot2", "rlist", "stringr", "broom", "tidy", "igraph", "lubridate", "crosstalk"), repos="https://cloud.r-project.org/")
+# install.packages(c("XML", "htmltools"), repos="https://cloud.r-project.org/")
+# install.packages(c("highcharter", "DT"), repos="https://cloud.r-project.org/")
+install.packages(c( "DT"), repos="https://cloud.r-project.org/")
+
